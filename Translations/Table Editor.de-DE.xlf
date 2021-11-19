@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="de-DE" original="Table Editor">
+    <body>
+      <group id="body">
+        <trans-unit id="Page 2727896929 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>About Table Editor</source>
+          <target state="translated">Über Table Editor</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This table editor can modify or delete selected records.</source>
+          <target state="translated">Dieser Tabelleneditor kann ausgewählte Datensätze ändern oder löschen.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Editor</source>
+          <target state="translated">Tabelleneditor</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Property 3863440606" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Debug</source>
+          <target state="translated">Debug</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Property AdditionalSearchTerms</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - NamedType 809267791" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Proceed?</source>
+          <target state="translated">Fortfahren?</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - NamedType CreateRecord2Qst</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - NamedType 3555668833" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to create a new record in table %1?</source>
+          <target state="translated">Möchten Sie einen neuen Datensatz in Tabelle %1 erstellen?</target>
+          <note from="Developer" annotates="general" priority="2">%1 = Table Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - NamedType CreateRecordQst</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - NamedType 669701587" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to delete %1 records from table %2?</source>
+          <target state="translated">Möchten Sie %1 Datensätze aus Tabelle %2 löschen?</target>
+          <note from="Developer" annotates="general" priority="2">%1 = No. of Records, %2 = Table Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - NamedType DeleteRecordsQst</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - NamedType 2800295767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Records will be deleted using DeleteAll(%1).\\Proceed?</source>
+          <target state="translated">Die Datensätze werden mit DeleteAll(%1).\\ gelöscht. Fortfahren?</target>
+          <note from="Developer" annotates="general" priority="2">%1 = UseTrigger (Boolean)</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - NamedType DeleteWithTriggerQst</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - NamedType 4288424883" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Done.</source>
+          <target state="translated">Fertig.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - NamedType DoneMsg</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - NamedType 363604244" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filter each primary key field with a constant value. Only then a new record can be created using those values.</source>
+          <target state="translated">Filtern Sie jedes Primärschlüsselfeld mit einem konstanten Wert. Erst dann kann ein neuer Datensatz mit diesen Werten erstellt werden.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - NamedType FilterTableOnEachPKFieldMsg</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - NamedType 1516192187" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Longest value has %1 characters.\%2</source>
+          <target state="translated">Der längste Wert hat %1 Zeichen.\%2</target>
+          <note from="Developer" annotates="general" priority="2">%1 = No. of characters, %2 = Value</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - NamedType MaxLengthMsg</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - NamedType 2128188428" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to modify %1 records in table %2?</source>
+          <target state="translated">Möchten Sie %1 Datensätze in Tabelle %2 ändern?</target>
+          <note from="Developer" annotates="general" priority="2">%1 = No. of Records, %2 = Table Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - NamedType ModifyRecordsQst</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - NamedType 777624542" size-unit="char" translate="yes" xml:space="preserve">
+          <source>"%1" := [%2];\Modify(%3);\\Proceed?</source>
+          <target state="translated">"%1" := [%2];\Modify(%3);\\Fortfahren?</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - NamedType ModifyRecordsWithoutValidateQst</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - NamedType 3818357216" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Validate("%1", [%2]);\Modify(%3);\\Proceed?</source>
+          <target state="translated">Validate("%1", [%2]);\Modify(%3);\\Fortfahren?</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - NamedType ModifyRecordsWithValidateQst</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - NamedType 2470041236" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No records found.</source>
+          <target state="translated">Keine Datensätze gefunden.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - NamedType NoRecordsFoundMsg</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - NamedType 1798303574" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rename(%1);\\Proceed?</source>
+          <target state="translated">Rename(%1);\\Fortfahren?</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - NamedType RenameRecords2Qst</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - NamedType 4057747532" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to rename %1 records in table %2?</source>
+          <target state="translated">Möchten Sie %1 Datensätze in Tabelle %2 umbenennen?</target>
+          <note from="Developer" annotates="general" priority="2">%1 = No. of Records, %2 = Table Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - NamedType RenameRecordsQst</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Method 3541026971 - NamedType 577911013" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Processing tables... @1@@@@@@</source>
+          <target state="translated">Verarbeite Tabellen... @1@@@@@@</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Method DeleteTableRecords - NamedType ProcessingDataTxt</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Control 2071486177 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field</source>
+          <target state="translated">Field</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Control FieldSettings - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Control 1329745570 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies caption of the selected field.</source>
+          <target state="translated">Gibt die Beschriftung des ausgewählten Feldes an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Control FieldCaptionField - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Control 1329745570 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Caption</source>
+          <target state="translated">Caption</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Control FieldCaptionField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Control 1913390121 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies name of the selected field.</source>
+          <target state="translated">Gibt den Namen des ausgewählten Feldes an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Control FieldNameField - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Control 1913390121 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="translated">Name</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Control FieldNameField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Control 3124662229 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field selector</source>
+          <target state="translated">Feldselektor</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Control FieldNumberField - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Control 3124662229 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies field no. that you want to modify.</source>
+          <target state="translated">Gibt die Feldnummer an, die Sie ändern möchten.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Control FieldNumberField - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Control 3124662229 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select the field if you want to modify a field for the selected records</source>
+          <target state="translated">Wählen Sie das Feld aus, wenn Sie ein Feld für die ausgewählten Datensätze ändern möchten</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Control FieldNumberField - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Control 3124662229 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target state="translated">Nr.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Control FieldNumberField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Control 2576247521 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Type field.</source>
+          <target state="translated">Gibt den Wert des Feldes Typ an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Control FieldTypeNameField - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Control 2576247521 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target state="translated">Art</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Control FieldTypeNameField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Control 645473173 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Choose the new value</source>
+          <target state="translated">Wählen Sie den neuen Wert</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Control FieldValueField - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Control 645473173 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value that the field should have after modifying it.</source>
+          <target state="translated">Gibt den Wert an, den das Feld nach der Änderung haben soll.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Control FieldValueField - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Control 645473173 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is the value that the field will have for the selected records after modifying them.</source>
+          <target state="translated">Dies ist der Wert, den das Feld für die ausgewählten Datensätze nach der Änderung haben wird.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Control FieldValueField - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Control 645473173 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value</source>
+          <target state="translated">Wert</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Control FieldValueField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Control 2933813817 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enable OnValidateTrigger</source>
+          <target state="translated">OnValidateTrigger einschalten</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Control UseValidateTriggerField - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Control 2933813817 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want to use the OnValidate trigger of the field.</source>
+          <target state="translated">Gibt an, ob Sie den OnValidate-Auslöser des Feldes verwenden möchten.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Control UseValidateTriggerField - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Control 2933813817 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enable this field if you want to use the OnValidate Trigger of the field when modifying the records.</source>
+          <target state="translated">Aktivieren Sie dieses Feld, wenn Sie beim Ändern der Datensätze den OnValidate-Trigger des Feldes verwenden möchten.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Control UseValidateTriggerField - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Control 2933813817 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Validate</source>
+          <target state="translated">Validieren</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Control UseValidateTriggerField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Control 4175714125 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table</source>
+          <target state="translated">Tabelle</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Control TableSettings - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Control 3253608131 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of your selected records</source>
+          <target state="translated">Anzahl der von Ihnen ausgewählten Datensätze</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Control CustomTableNoOfRecordsField - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Control 3253608131 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the no. of records that you selected</source>
+          <target state="translated">Gibt die Anzahl der Datensätze an, die Sie ausgewählt haben</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Control CustomTableNoOfRecordsField - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Control 3253608131 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows how many records you selected in the previous field.</source>
+          <target state="translated">Zeigt an, wie viele Datensätze Sie im vorherigen Feld ausgewählt haben.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Control CustomTableNoOfRecordsField - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Control 3253608131 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Records in Filter</source>
+          <target state="translated">Datensätze im Filter</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Control CustomTableNoOfRecordsField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Control 1018074862 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Record Selection</source>
+          <target state="translated">Datensatz-Auswahl</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Control CustomTableViewField - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Control 1018074862 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the selected records.</source>
+          <target state="translated">Gibt die ausgewählten Datensätze an.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Control CustomTableViewField - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Control 1018074862 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select all the records that you want to modify or delete</source>
+          <target state="translated">Wählen Sie alle Datensätze aus, die Sie ändern oder löschen möchten</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Control CustomTableViewField - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Control 1018074862 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View</source>
+          <target state="translated">View</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Control CustomTableViewField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Control 1545557470 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the caption of the table where you want to modify or delete records.</source>
+          <target state="translated">Gibt die Beschriftung der Tabelle an, in der Sie Datensätze ändern oder löschen möchten.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Control TableCaptionField - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Control 1545557470 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Caption</source>
+          <target state="translated">Caption</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Control TableCaptionField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Control 3745738151 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the ID of the table where you want to modify or delete records.</source>
+          <target state="translated">Gibt die ID der Tabelle an, in der Sie Datensätze ändern oder löschen möchten.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Control TableNoField - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Control 3745738151 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ID</source>
+          <target state="translated">ID</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Control TableNoField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Control 2745026057 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to use table triggers?</source>
+          <target state="translated">Möchten Sie Tabellen-Trigger verwenden?</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Control UseTableTriggerField - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Control 2745026057 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want to run the trigger of the table that you want to modify or delete.</source>
+          <target state="translated">Gibt an, ob Sie den Trigger der Tabelle, die Sie ändern oder löschen wollen, ausführen wollen.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Control UseTableTriggerField - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Control 2745026057 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enable this field if you want to use the table triggers when modifying or deleting records.</source>
+          <target state="translated">Aktivieren Sie dieses Feld, wenn Sie die Tabellen-Trigger beim Ändern oder Löschen von Datensätzen verwenden möchten.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Control UseTableTriggerField - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Control 2745026057 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use Trigger</source>
+          <target state="translated">Trigger verwenden</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Control UseTableTriggerField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Action 3343869457 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Create Record action.</source>
+          <target state="translated">Führt die Aktion Datensatz erstellen aus.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Action CreateRecordAction - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Action 3343869457 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Record</source>
+          <target state="translated">Datensatz erstellen</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Action CreateRecordAction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Action 932266291 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete Records</source>
+          <target state="translated">Datensätze löschen</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Action DeleteRecordsAction - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Action 932266291 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Deletes the selected records.</source>
+          <target state="translated">Löscht die ausgewählten Datensätze.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Action DeleteRecordsAction - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Action 932266291 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This will delete all the records that you selected in the field "View"</source>
+          <target state="translated">Dadurch werden alle Datensätze gelöscht, die Sie im Feld "View" ausgewählt haben</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Action DeleteRecordsAction - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Action 932266291 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete Table Records</source>
+          <target state="translated">Datensätze löschen</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Action DeleteRecordsAction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Action 275727716 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Finds the longest value of a field in the table.</source>
+          <target state="translated">Findet den längsten Wert eines Feldes in der Tabelle.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Action FindLongestValueAction - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Action 275727716 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Find Longest Value</source>
+          <target state="translated">Längsten Wert finden</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Action FindLongestValueAction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Action 3302205236 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Modify Records</source>
+          <target state="translated">Datensätze ändern</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Action ModifyRecordsAction - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Action 3302205236 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Modifies the selected records.</source>
+          <target state="translated">Ändert die ausgewählten Datensätze.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Action ModifyRecordsAction - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Action 3302205236 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This will modify all the records that you selected in the field "View"</source>
+          <target state="translated">Dadurch werden alle Datensätze geändert, die Sie im Feld "Ansicht" ausgewählt haben</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Action ModifyRecordsAction - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 2727896929 - Action 3302205236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Modify Table Records</source>
+          <target state="translated">Datensätze modifizieren</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Table Editor - Action ModifyRecordsAction - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
